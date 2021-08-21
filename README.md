@@ -5,6 +5,6 @@
 - 👯 I’m looking to gey connected on linkedin
 - 🤔 I’m looking for help with backend
 - 💬 Ask me about anything tech related
-- 📫 How to reach me: Linkedin -
+- 📫 How to reach me: [Linkedin : deepansh-shukla](www.linkedin.com/in/deepansh-shukla)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am always sad.
