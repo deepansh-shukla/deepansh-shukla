@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am always sad.
 - 
-<img src="https://github-readme-stats.vercel.app/api?username=deepansh-shukla&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=deepansh-shukla&&show_icons=true&title_color=ffffff&icon_color=FFFF33&text_color=FFFFFF&bg_color=151515">
